@@ -273,7 +273,7 @@
                             `• Nombre: ${nombre}\n` +
                             `• Teléfono: ${telefono}\n` +
                             `• Correo: ${email}\n\n` +
-                            `Solicito la pensum detallada y el plan de cuotas de $650.`;
+                            `Solicito el pensum detallado y el plan de cuotas de $650.`;
 
             const url = `https://api.whatsapp.com/send?phone=${numeroCoordinador}&text=${encodeURIComponent(mensaje)}`;
             window.open(url, '_blank');
