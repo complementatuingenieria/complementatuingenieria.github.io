@@ -262,7 +262,7 @@
             e.preventDefault();
             
             // Reemplaza este número por tu número de WhatsApp real con código de país (Ej: 58414XXXXXXX)
-            const numeroCoordinador = "584140000000"; 
+            const numeroCoordinador = "584127016141"; 
 
             const nombre = document.getElementById('nombre').value;
             const telefono = document.getElementById('telefono').value;
